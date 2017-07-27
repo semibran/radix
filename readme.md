@@ -6,7 +6,7 @@
 ### `encode(digits, number) -> string`
 Encodes `number` into a `string` using `digits`.
 ```js
-> var binary = "01"
+> var binary = ["0", "1"]
 > encode(binary, 255)
 "11111111"
 ```
