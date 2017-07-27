@@ -1,0 +1,10 @@
+{
+ "name": "raditz",
+ "version": "0.0.0",
+ "description": "Convert whole numbers to any base",
+ "keywords": ["radix", "convert", "numbers", "base"],
+ "files": ["index.js", "encode.js", "decode.js"],
+ "license": "MIT",
+ "author": "Brandon Semilla (https://github.com/semibran)",
+ "repository": "semibran/radix"
+}
